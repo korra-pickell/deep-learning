@@ -289,7 +289,7 @@ def fit(train_ds, file_index, epochs, test_ds, epoch_number):
     #checkpoint.save(file_prefix=checkpoint_prefix)
 
 
-d = 'E:/DATA/NPY/noise/'
+d = ''
 
 cutoff = None
 
